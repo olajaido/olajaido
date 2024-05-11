@@ -35,6 +35,8 @@ Let's collaborate and embark on an exciting journey to unlock the full potential
 <img align="right" alt="GIF" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T916A1PA4332PT17X96Y35D1049742306W15605H18727/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/funny-eat-sleep-build-repeat-building-blocks-men-mens-premium-tank-top.jpg" />
 
 **Languages and Tools:**
+
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
