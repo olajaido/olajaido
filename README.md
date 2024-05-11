@@ -21,7 +21,8 @@
 
 <br />
 
-<script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
+[![Analytics](https://your-analytics-service.com/track/github-page)](https://your-analytics-service.com/stats)
+
 
 As a DevOps and Cloud Engineer, I bring a wealth of expertise in orchestrating seamless deployments and optimizing cloud infrastructure. My toolkit includes proficiency in technologies such as Kubernetes, Karpenter, Docker, Terraform, and AWS Cloud Platform.
 
