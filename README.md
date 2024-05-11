@@ -21,6 +21,8 @@
 
 <br />
 
+<script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
+
 As a DevOps and Cloud Engineer, I bring a wealth of expertise in orchestrating seamless deployments and optimizing cloud infrastructure. My toolkit includes proficiency in technologies such as Kubernetes, Karpenter, Docker, Terraform, and AWS Cloud Platform.
 
 Driven by a passion for problem-solving in complex distributed systems, I specialize in architecting scalable and resilient solutions that empower businesses to thrive in the digital landscape.
