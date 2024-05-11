@@ -32,7 +32,7 @@ Recognizing the importance of mentorship and guidance in navigating the ever-evo
 Let's collaborate and embark on an exciting journey to unlock the full potential of DevOps and cloud technologies together! 🚀☁️
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T916A1PA4332PT17X96Y35D1049742306W15605H18727/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/funny-eat-sleep-build-repeat-building-blocks-men-mens-premium-tank-top.jpg" />
 
 
 
